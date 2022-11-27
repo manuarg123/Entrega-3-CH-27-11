@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "tittle": "Teclado Gamer Mecánico",
+    "prize": "5000",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_824385-MLA51631455577_092022-O.jpg"
+  },
+  {
+    "id": 2,
+    "tittle": "Monitor LED",
+    "prize": "45000",
+    "thumbnail": "https://compucordoba.com.ar/img/Public/1078-producto-monitor-lg-20-8535.jpg"
+  },
+  {
+    "id": 3,
+    "tittle": "Placa de Video",
+    "prize": "30000",
+    "thumbnail": "https://compucordoba.com.ar/img/Public/1078-producto-61sbansjcgl-ac-sx679-1-5453.jpg"
+  }
+]
